@@ -4,9 +4,13 @@ My name is Rafat Al Khashan, and I am a Agronomy researcher/developer based in A
 
 My speciality is Precision Crop Production. I have developed algorithms and created tools for Crop Nutrition under Hydroponic and Aeroponic Systems, Protective Agriculture system to minimized the Energy consumption. Nevertheless, my current research investigates the potentials of maximize Quality on citrus production problem, which can ultimately lead to Maximized the Production Marketable yeild. More specifically, I am interested in the Digitalization of the Farm Scout as part of Precision Agriculture System.
 
-![](https://github-readme-stats.vercel.app/api?username=rafatahmed&show_icons=true&count_private=false&include_all_commits=true)
+| Stat   |      Top Lang      |
+|----------|:-------------:|
+| ![](https://github-readme-stats.vercel.app/api?username=rafatahmed&show_icons=true&count_private=false&include_all_commits=true) |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatahmed&hide=Tex&layout=compact) |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatahmed&hide=Tex&layout=compact)
+
+
+
 
 
 <!--
